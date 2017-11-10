@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8051f2f3-41d8-4f31-a9e8-ae446668161f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/parvularia/alumnoCuadros/Cuadro3.blade.php" afterPath="$PROJECT_DIR$/resources/views/parvularia/alumnoCuadros/Cuadro3.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/RegristrarIndicadorController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/RegristrarIndicadorController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/parvularia/SeleccionGrado.blade.php" afterPath="$PROJECT_DIR$/resources/views/parvularia/SeleccionGrado.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/layouts/menu.blade.php" afterPath="$PROJECT_DIR$/resources/views/layouts/menu.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="gestiondsi2015.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="gestiondsi2015" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="RegristrarIndicadorController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/RegristrarIndicadorController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="154" column="35" selection-start="5110" selection-end="5110" vertical-scroll-proportion="-18.307692" vertical-offset="2767" max-vertical-offset="8142">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cuadro3.blade.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/parvularia/alumnoCuadros/Cuadro3.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="127" selection-start="1060" selection-end="1060" vertical-scroll-proportion="0.30104712" vertical-offset="207" max-vertical-offset="1219">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListadoParv.blade.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/parvularia/alumnoCuadros/ListadoParv.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="43" selection-start="1384" selection-end="1384" vertical-scroll-proportion="-21.23077" vertical-offset="0" max-vertical-offset="2691">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/app/Http/Controllers/BusquedaAlumnosController.php" />
+        <option value="$PROJECT_DIR$/resources/views/auth/login.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/RegistroNotas/RegistrarNotas.blade.php" />
+        <option value="$PROJECT_DIR$/app/Grado.php" />
+        <option value="$PROJECT_DIR$/resources/views/parvularia/registrarIndicador.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/parvularia/AlumnosIndicador.blade.php" />
+        <option value="$PROJECT_DIR$/public/css/RegistroNotas.css" />
+        <option value="$PROJECT_DIR$/app/Alumno.php" />
+        <option value="$PROJECT_DIR$/database/seeds/IndicadoresTableSeeder.php" />
+        <option value="$PROJECT_DIR$/resources/views/indicadores/consultar.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/indicadores/indicadores.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/indicadores/editar.blade.php" />
+        <option value="$PROJECT_DIR$/app/RespuestaIndicador.php" />
+        <option value="$PROJECT_DIR$/resources/views/parvularia/alumnoCuadros/Cuadro1.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/parvularia/SelectLetra.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/parvularia/alumnoCuadros/Cuadro2.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/CrearIndicadorController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/IndicadorController.php" />
+        <option value="$PROJECT_DIR$/public/css/Inicial.css" />
+        <option value="$PROJECT_DIR$/resources/views/parvularia/SeleccionGrado.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/parvularia/Libreta.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/resources/views/parvularia/alumnoCuadros/ListadoParv.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/parvularia/InformeAvancePdf.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/menu.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/RegristrarIndicadorController.php" />
+        <option value="$PROJECT_DIR$/resources/views/parvularia/alumnoCuadros/Cuadro3.blade.php" />
+        <option value="$PROJECT_DIR$/.env" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="816" />
+    <option name="height" value="576" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gestiondsi2015" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gestiondsi2015" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gestiondsi2015" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gestiondsi2015" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gestiondsi2015" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8051f2f3-41d8-4f31-a9e8-ae446668161f" name="Default" comment="" />
+      <created>1446842800856</created>
+      <updated>1446842800856</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="816" height="576" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29082775" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29023746" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29082775" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29023746" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/RegristrarIndicadorController.php</url>
+          <line>16</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/resources/views/RegistroNotas/RegistrarNotas.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="71" selection-start="631" selection-end="676" vertical-scroll-proportion="0.50155765" vertical-offset="138" max-vertical-offset="1127" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ActualizarAlumnoController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-5.8508773" vertical-offset="2001" max-vertical-offset="2760" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/alumnos/edt/tabla.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="63" selection-start="838" selection-end="838" vertical-scroll-proportion="0.0" vertical-offset="534" max-vertical-offset="966" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Grado.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="5" selection-start="486" selection-end="486" vertical-scroll-proportion="1.1274238" vertical-offset="30" max-vertical-offset="667" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/RegistroNotasController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="5" selection-start="1704" selection-end="1704" vertical-scroll-proportion="-2.2411764" vertical-offset="2142" max-vertical-offset="2691" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/alumnos/inscripcion.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="736" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/alerts/request.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="437" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/alumnos/edt/campos.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="28" selection-end="52" vertical-scroll-proportion="0.13529412" vertical-offset="0" max-vertical-offset="3312" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/alumnos/edt/busqueda.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="6" selection-start="324" selection-end="324" vertical-scroll-proportion="0.4735294" vertical-offset="0" max-vertical-offset="340" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/alumnos/consultar.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="88" selection-start="548" selection-end="619" vertical-scroll-proportion="0.0" vertical-offset="184" max-vertical-offset="1909" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/alumnos/promocion.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="17" selection-start="1007" selection-end="1007" vertical-scroll-proportion="0.06764706" vertical-offset="414" max-vertical-offset="1150" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/alumnos/editar.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="98" selection-start="1026" selection-end="1108" vertical-scroll-proportion="-0.8117647" vertical-offset="759" max-vertical-offset="1334" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/AreaIndicador.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="379">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1127">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Alumno.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="28" selection-start="91" selection-end="91" vertical-scroll-proportion="0.06269593" vertical-offset="72" max-vertical-offset="1357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/alerts/exito.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="18" selection-start="18" selection-end="25" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="276" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AlumnosController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="40" selection-start="324" selection-end="324" vertical-scroll-proportion="-18.663212" vertical-offset="3648" max-vertical-offset="3841" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/BusquedaAlumnosController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="0" selection-start="1804" selection-end="1804" vertical-scroll-proportion="4.7512956" vertical-offset="394" max-vertical-offset="2461" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/indicadores/indicadores.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="148" selection-start="452" selection-end="452" vertical-scroll-proportion="0.7210031" vertical-offset="69" max-vertical-offset="575" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/indicadores/consultar.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="68" selection-start="1609" selection-end="1624" vertical-scroll-proportion="0.40588236" vertical-offset="414" max-vertical-offset="989" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/RegistroNotas.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="2" selection-start="823" selection-end="844" vertical-scroll-proportion="0.46448088" vertical-offset="888" max-vertical-offset="3082" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/indicadores/editar.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="40" selection-start="1619" selection-end="1619" vertical-scroll-proportion="0.700831" vertical-offset="414" max-vertical-offset="1219" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/parvularia/registrarIndicador.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="86" selection-start="823" selection-end="836" vertical-scroll-proportion="0.44044322" vertical-offset="324" max-vertical-offset="690" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/RespuestaIndicador.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="51" selection-start="235" selection-end="243" vertical-scroll-proportion="0.59833795" vertical-offset="60" max-vertical-offset="460">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/UsuariosController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="47" selection-start="1616" selection-end="1633" vertical-scroll-proportion="-10.346154" vertical-offset="1203" max-vertical-offset="3703" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PromocionController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="93" column="0" selection-start="2036" selection-end="2036" vertical-scroll-proportion="0.44598338" vertical-offset="1794" max-vertical-offset="2691" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/parvularia/SelectLetra.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="223" selection-end="223" vertical-scroll-proportion="0.31855956" vertical-offset="0" max-vertical-offset="361" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/parvularia/alumnoCuadros/Cuadro1.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="13" selection-start="1442" selection-end="1456" vertical-scroll-proportion="0.54188484" vertical-offset="276" max-vertical-offset="1196" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/indicadores/crear.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.5734072" vertical-offset="207" max-vertical-offset="943" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CrearIndicadorController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="53" selection-start="1710" selection-end="1710" vertical-scroll-proportion="-1.867036" vertical-offset="2146" max-vertical-offset="3059" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Indicadores.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="989">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/IndicadorController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="134" column="16" selection-start="4029" selection-end="4029" vertical-scroll-proportion="-5.8461537" vertical-offset="2930" max-vertical-offset="3335" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/IndicadoresTableSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="2" selection-start="1251" selection-end="1251" vertical-scroll-proportion="0.25730994" vertical-offset="1016" max-vertical-offset="4347" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/parvularia/AlumnosIndicador.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="149" selection-start="536" selection-end="675" vertical-scroll-proportion="0.120588236" vertical-offset="304" max-vertical-offset="713" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/Inicial.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="124" column="2" selection-start="1673" selection-end="1673" vertical-scroll-proportion="4.1275" vertical-offset="1201" max-vertical-offset="3588" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/reporte.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="106" column="20" selection-start="1424" selection-end="1424" vertical-scroll-proportion="0.3325" vertical-offset="2305" max-vertical-offset="3197" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Boleta/boletapdf.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="370" column="29" selection-start="12175" selection-end="12186" vertical-scroll-proportion="4.423077" vertical-offset="8625" max-vertical-offset="11454" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/parvularia/SeleccionGrado.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="57" selection-start="559" selection-end="612" vertical-scroll-proportion="0.0" vertical-offset="281" max-vertical-offset="1173">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Boleta/boleta.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="41" selection-start="1106" selection-end="1134" vertical-scroll-proportion="-7.076923" vertical-offset="345" max-vertical-offset="851" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Boleta/busquedas.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="103" column="12" selection-start="0" selection-end="3915" vertical-scroll-proportion="-3.3461537" vertical-offset="2282" max-vertical-offset="2714" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="37" selection-start="2350" selection-end="2375" vertical-scroll-proportion="-1.5088235" vertical-offset="1410" max-vertical-offset="1794" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/BoletaController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="146" column="51" selection-start="4029" selection-end="4074" vertical-scroll-proportion="0.0" vertical-offset="3358" max-vertical-offset="14306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/parvularia/Libreta.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="72" selection-start="700" selection-end="700" vertical-scroll-proportion="-10.615385" vertical-offset="0" max-vertical-offset="851">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/parvularia/alumnoCuadros/ListadoParv.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="43" selection-start="1384" selection-end="1384" vertical-scroll-proportion="-21.23077" vertical-offset="0" max-vertical-offset="2691">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/parvularia/InformeAvancePdf.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="41" selection-start="175" selection-end="175" vertical-scroll-proportion="-4.423077" vertical-offset="0" max-vertical-offset="2461">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/menu.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="159" column="107" selection-start="10597" selection-end="10597" vertical-scroll-proportion="-5.3846154" vertical-offset="3517" max-vertical-offset="5359">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Turno.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="400">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/RegristrarIndicadorController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="154" column="35" selection-start="5110" selection-end="5110" vertical-scroll-proportion="-18.307692" vertical-offset="2767" max-vertical-offset="8142">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/parvularia/alumnoCuadros/Cuadro2.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="47" selection-end="47" vertical-scroll-proportion="-0.12742382" vertical-offset="138" max-vertical-offset="1288">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="22" selection-start="94" selection-end="94" vertical-scroll-proportion="0.2875" vertical-offset="0" max-vertical-offset="736">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/parvularia/alumnoCuadros/Cuadro3.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="127" selection-start="1060" selection-end="1060" vertical-scroll-proportion="0.30104712" vertical-offset="207" max-vertical-offset="1219">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

@@ -1,0 +1,68 @@
+/*CUADRO FINAL*/
+.vericaltext{
+    width:1px;
+    word-wrap: break-word;
+    font-size: x-small
+}
+
+.mayuscula {
+  text-transform: uppercase;
+}
+
+.tablaCuadroFinal{
+font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
+  font-size: x-small;
+}
+
+/*=========================================================================*/
+
+}
+.title
+{
+  height: 150px;
+  width: 150px;
+
+
+}
+.titulo
+{
+  width: 900px;
+  height: 100px;
+  margin-top: -17px;
+
+}
+
+.firma
+{
+  border-top:1px solid #000;
+  width: 300px;
+}
+.vertical
+{
+  -webkit-transform:. Rotate (-90deg);
+  -moz-transform: rotar (-90deg);
+}
+.notas
+{
+  border-collapse: collapse;
+  width: 600px;
+}
+.firmas
+{
+  margin-top: -1400px;
+  height: 100px;
+
+}
+.desAspectos
+{
+  float:right;
+  position: absolute;
+  margin-top:-180px;
+  margin-left:470px;
+  border-collapse: collapse;
+}
+.ap
+{
+  font-size: 12px;
+  width: 400px;
+}

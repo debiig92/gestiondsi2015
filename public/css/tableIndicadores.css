@@ -1,0 +1,16 @@
+table{
+    border: 1px solid black;
+    table-layout: fixed;
+    width: 600px;
+}
+
+th,td {
+    border: 1px solid black;
+    overflow: hidden;
+    width: 35px;
+}
+th.x {
+    border: 1px solid black;
+    overflow: hidden;
+    width: 50px;
+}

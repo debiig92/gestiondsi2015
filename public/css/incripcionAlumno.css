@@ -1,0 +1,35 @@
+#container-inscripcion-alumno{
+  background: #EFF3F6;
+  width:600px;
+
+}
+#container-fluid-incripcion-alumno{
+  background:#EFF3F6;
+  width:900px;
+  margin-top:40px;
+  margin-left:-355px;
+}
+#row-inscripcion-alumno
+{
+margin-left:-230px;
+margin-top:40px;
+}
+.colorgraph
+{
+  height: 5px;
+  border-top: 0;
+  background: #c4e17f;
+  border-radius: 5px;
+  width: 980px;
+  background-image: -webkit-linear-gradient(left, #2E353D, #2E353D 12.5%, #4F5B69 12.5%, #4F5B69 25%, #2E353D 25%, #2E353D 37.5%, #4F5B69 37.5%, #4F5B69 50%,  #2E353D 50%,  #2E353D 62.5%, #4F5B69 62.5%, #4F5B69 75%, #2E353D 75%,  #2E353D 87.5%, #4F5B69 87.5%, #4F5B69);#4F5B69
+  background-image: -moz-linear-gradient(left, #2E353D, #2E353D 12.5%, #4F5B69 12.5%, #4F5B69 25%, #2E353D 25%, #2E353D 37.5%, #4F5B69 37.5%, #4F5B69 50%,  #2E353D 50%,  #2E353D 62.5%, #4F5B69 62.5%, #4F5B69 75%, #2E353D 75%,  #2E353D 87.5%, #4F5B69 87.5%, #4F5B69);
+  background-image: -o-linear-gradient(left, #2E353D, #2E353D 12.5%, #4F5B69 12.5%, #4F5B69 25%, #2E353D 25%, #2E353D 37.5%, #4F5B69 37.5%, #4F5B69 50%,  #2E353D 50%,  #2E353D 62.5%, #4F5B69 62.5%, #4F5B69 75%, #2E353D 75%, #2E353D  87.5%, #4F5B69 87.5%, #4F5B69);
+  background-image: linear-gradient(to right, #2E353D, #2E353D 12.5%, #4F5B69 12.5%, #4F5B69 25%, #2E353D 25%, #2E353D 37.5%, #4F5B69 37.5%, #4F5B69 50%,  #2E353D 50%,  #2E353D 62.5%, #4F5B69 62.5%, #4F5B69 75%, #2E353D 75%, #2E353D 87.5%, #4F5B69 87.5%, #4F5B69);
+}
+/* Aqui esta lo de tabla de promocion de alumnos*/
+.encabezado
+{
+  background:#2E353D;
+  font: white;
+}
+/*==============================================*/

@@ -1,0 +1,106 @@
+body {
+  margin:0;
+    padding:0;
+    background: #FFF;
+
+}
+#tab {
+    width:50px;
+    height:50px;
+    position:fixed;
+    right:0px;
+    top:45px;
+    display:block;
+    cursor:pointer;
+    background-color:#232526;
+    border-radius: 10px 0 0 10px;
+    padding: 5px 0 5px 5px;
+}
+
+#tab_2 {
+    width:100px;
+    height:100px;
+    position:fixed;
+    left:400px;
+    top:45px;
+    display:block;
+    cursor:pointer;
+    background-color:#232526;
+    border-radius: 0 10px 10px 0;
+    padding: 5px 5px 5px 0;
+}
+
+#tab_interna {
+    border-radius: 5px 0 0 5px;
+    width: 100%;
+    height: 100%;
+    background: #CCC url('images/dnm/help2.png') no-repeat center center;
+}
+
+#tab_interna_2 {
+    border-radius: 0 5px 5px 0;
+    width: 100%;
+    height: 100%;
+    background: #CCC url('images/dnm/arrow_posts_right.png') no-repeat center center;
+}
+
+
+#tab_interna:hover {
+    background-position: 5px 13px;
+    background: #CCC url('images/dnm/help2_hover.png') no-repeat center center;
+}
+
+#tab_interna_2:hover {
+    background-position: 11px 13px;
+}
+
+.expandida {
+    background: #CCC url('images/dnm/arrow_posts_right.png') no-repeat center center !important;
+}
+.expandida:hover {
+    background-position: 11px 13px !important;
+}
+
+#tab_interna_2.expandida {
+    background: #CCC url('images/dnm/arrow_posts_left.png') no-repeat center center !important;
+}
+#tab_interna_2.expandida:hover {
+    background-position: 5px 13px !important;
+}
+
+#panel {
+    position: fixed;
+    right:0px;
+    top:45px;
+    background-color:#CCC;
+    height:250px;
+    width:0;
+    font: 18px Arial;
+    color: #707275;
+    text-align: center;
+    border-radius: 0 0 0 15px;
+}
+#panel_2 {
+    position:absolute;
+    left:0px;
+    top:45px;
+    background-color: #CCC;
+    height:250px;
+    width: 400px;
+    font: 18px Arial;
+    color: #707275;
+    text-align: center;
+    border-radius: 0 0 15px 0;
+    opacity: 0.8;
+}
+
+#panel h3, #panel_2 h3 {
+    margin: 0;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+}
+
+#panel .content, #panel_2 .content {
+    width:320px;
+    margin: 5px auto;
+}

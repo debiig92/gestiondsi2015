@@ -1,0 +1,128 @@
+/* Aqui esta lo de tabla de Registro de notas de alumnos*/
+.table-bordered {
+border: 1px solid #dddddd;
+border-collapse: separate;
+border-left: 0;
+-webkit-border-radius: 4px;
+-moz-border-radius: 4px;
+border-radius: 4px;
+}
+
+.table {
+width: 100%;
+margin-bottom: 20px;
+background-color: transparent;
+border-collapse: collapse;
+border-spacing: 0;
+display: table;
+}
+/*==============================================*/
+/* Link de grados*/
+/*********************************************/
+/*Linea superior*/
+#linea-Superior
+{
+  width: 970px;
+}
+
+/*Encabezado de tabla*/
+.encabezado-registro-notas
+{
+  color:#2E353D;
+}
+/*Boton guardar notas*/
+#Guardar-Notas
+{
+  background:#2E353D;
+  color: white;
+  font-size: 16px;
+  border-color:#2E353D;
+  float:right;
+}
+#Regresar-Link
+{
+  background:#2E353D;
+  color: white;
+  font-size: 16px;
+  border-color:#2E353D;
+  float:left;
+}
+#Regresar-LinkBlue
+{
+    background: #2c7dbc;
+    color: white;
+    font-size: 16px;
+    border-color:#2c7dbc;
+    float:left;
+}
+
+#Alumnos
+{
+    background:#2E353D;
+    color: white;
+    font-size: 20px;
+    border-color:#2E353D;
+    float: left;
+}
+
+
+/********************************************************************/
+/*** PANEL PRIMARY ***/
+#contenedor-tabs
+{
+background:#EFF3F6;
+border-color: #2E353D;
+}
+.with-nav-tabs.panel-primary .nav-tabs > li > a,
+.with-nav-tabs.panel-primary .nav-tabs > li > a:hover,
+.with-nav-tabs.panel-primary .nav-tabs > li > a:focus {
+    color:white; /*Color de la letra sin seleccionar*/
+}
+.with-nav-tabs.panel-primary .nav-tabs > .open > a,
+.with-nav-tabs.panel-primary .nav-tabs > .open > a:hover,
+.with-nav-tabs.panel-primary .nav-tabs > .open > a:focus,
+.with-nav-tabs.panel-primary .nav-tabs > li > a:hover,
+.with-nav-tabs.panel-primary .nav-tabs > li > a:focus {
+	color: white; /*Color al poner el mouse */
+	background-color: #4F5B69;/*Color al seleccionar*/
+	border-color: transparent;
+}
+.with-nav-tabs.panel-primary .nav-tabs > li.active > a,
+.with-nav-tabs.panel-primary .nav-tabs > li.active > a:hover,
+.with-nav-tabs.panel-primary .nav-tabs > li.active > a:focus {
+	color: white;
+	background-color: #2E353D;
+	border-color: white;
+	border-bottom-color: transparent;
+
+}
+.with-nav-tabs.panel-primary .nav-tabs > li.dropdown .dropdown-menu {
+    background-color: #428bc;
+    border-color: #3071a;
+}
+.with-nav-tabs.panel-primary .nav-tabs > li.dropdown .dropdown-menu > li > a {
+    color: #fff;
+}
+.with-nav-tabs.panel-primary .nav-tabs > li.dropdown .dropdown-menu > li > a:hover,
+.with-nav-tabs.panel-primary .nav-tabs > li.dropdown .dropdown-menu > li > a:focus {
+    background-color: #3071a;
+}
+.with-nav-tabs.panel-primary .nav-tabs > li.dropdown .dropdown-menu > .active > a,
+.with-nav-tabs.panel-primary .nav-tabs > li.dropdown .dropdown-menu > .active > a:hover,
+.with-nav-tabs.panel-primary .nav-tabs > li.dropdown .dropdown-menu > .active > a:focus {
+    background-color: #4a9fe;
+}
+/********************************************************************/
+/*Tabs*/
+.panel.with-nav-tabs .panel-heading{
+    padding: 5px 5px 0 5px;
+    background: #2E353D;
+      border-color: #2e353d;
+}
+.panel.with-nav-tabs .nav-tabs{
+	border-bottom: none;
+}
+.panel.with-nav-tabs .nav-justified{
+	margin-bottom: -1px;
+}
+/********************************************************************/

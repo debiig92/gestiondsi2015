@@ -1,0 +1,42 @@
+@extends('layouts.menu')
+@section('content')
+<div class="container" id="container-inscripcion-alumno">
+  <div class="container-fluid"  id="container-fluid-incripcion-alumno">
+    <div class="row" id="row-inscripcion-alumno">
+      <div class="col-md-8 col-md-offset-2">
+        <div class="panel panel-default" style="background:#EFF3F6; width:1000px;">
+          <div class="panel-body">
+            <h2>Crear Actividades</h2>
+            <hr class="colorgraph">
+            {!!Form::open(['route'=>'actividad.store','method'=>'POST']) !!}
+              <label class="control-label">Grado</label>
+                @include('Actividades/table_grado')
+              <br>
+              <label class="control-label">Nombre</label>
+              <input class="form-control" type="text" id="nombre_act" name="nombre"/>
+             <br>
+              <label class="control-label" >Asignatura</label>
+              @include('Actividades/tabla_asignaturas')
+              <br>
+              <label class="control-label">Tipo de Actividad</label>
+                @include('Actividades/tabla_tipoAct')
+                 <br>
+             <label class="control-label">Actividad Padre</label>
+              @include('Actividades/tableActividades')
+              <br>
+               <label class="control-label">Porcentaje</label>
+               <input class="form-control" type="text" id="ponderacion" name="ponderacion"/>
+              <br><br>
+                {!! Form::submit('Crear Actividad',['class'=>'btn btn-primary']) !!}
+              </div>
+              <a href="{!! URL::to('/actividad/show') !!}" style="color:#2E353D; font-size:16px">Consultar Actividad</a>
+                {!!Form::close() !!}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+@stop

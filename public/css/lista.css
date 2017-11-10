@@ -1,0 +1,35 @@
+.title
+{
+  height: 150px;
+  width: 150px;
+
+
+}
+.titulo
+{
+  width: 700px;
+  height: 100px;
+  margin-top: -17px;
+
+}
+.logo
+{
+  background: red;
+  height: 150px;
+  width: 150px;
+}
+.nombre
+{
+  width: 600px;
+}
+.list
+{
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+.list1
+{
+  border-collapse: collapse;
+  border: 1px solid black;
+  
+}

@@ -1,0 +1,150 @@
+.boletaP
+{
+    text-align:center;
+    white-space:nowrap;
+    transform-origin:50% 50%;
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+    border:1px solid #000;
+
+}
+.vertical {
+    text-align:center;
+    white-space:nowrap;
+    transform-origin:50% 50%;
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+
+}
+.vertical:before {
+    content:'';
+    padding-top:110%;
+    display:inline-block;
+    vertical-align:middle;
+}
+
+
+.space{
+   margin-left:12px;}
+p.space{
+   margin-left:12px;
+
+}
+.normal {
+  
+  border: 1px solid #000;
+    border-collapse: collapse;
+}
+
+.normal tr,.normal td, .normal th{
+    border-collapse: collapse;
+border: 1px solid #000;
+
+}
+.title
+{
+  height: 150px;
+  width: 150px;
+
+
+}
+.titulo
+{
+  width: 900px;
+  height: 100px;
+  margin-top: -17px;
+
+}
+.nombre
+{
+  width: 900px;
+  height: 100px;
+
+}
+.grado
+{
+
+}
+.al
+{
+   font-weight: bold;
+}
+.asignatura
+{
+    border:1px solid #000;
+    margin-top: 10px;
+
+}
+.boleta
+{
+  border:1px solid #000;
+}
+.boleta-1
+{
+  border:1px solid #000;
+  font-size: 12px;
+}
+.asistencia
+{
+  width: 700px;
+  border: 1px solid black;
+  margin-top:-25px;
+
+}
+.aspectos
+{
+  float:right;
+  position: absolute;
+  margin-top:-297px;
+  margin-left:470px;
+  border-collapse: collapse;
+  border: 1px solid black;
+
+
+}
+.asp
+{
+  border: 1px solid #000;
+  font-size:18px;
+  width: 35px;
+}
+.firma
+{
+  border-top:1px solid #000;
+  width: 300px;
+}
+.vertical
+{
+  -webkit-transform:. Rotate (-90deg);
+  -moz-transform: rotar (-90deg);
+}
+.notas
+{
+  border-collapse: collapse;
+  width: 600px;
+}
+.firmas
+{
+  margin-top: -1400px;
+  height: 100px;
+
+}
+.desAspectos
+{
+  float:right;
+  position: absolute;
+  margin-top:-180px;
+  margin-left:470px;
+  border-collapse: collapse;
+}
+.ap
+{
+  font-size: 12px;
+  width: 400px;
+}
